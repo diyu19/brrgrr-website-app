@@ -8,9 +8,9 @@ burger order system aims to give best testy burger in their nearest brrgrr shop.
 
 ## Project Title: Brrgrr Web App
 ## Project Details :
-## Project Demo URL: 
-## Demo Video URL :
-## Github Repository URL :
+## Project Demo URL: https://delightful-smoke-042d0b410.4.azurestaticapps.net/
+
+## Github Repository URL :https://github.com/diyu19/brrgrr-website-app/
 ## Industry : Food
 
 ## Azure Services Used :-
@@ -22,3 +22,4 @@ burger order system aims to give best testy burger in their nearest brrgrr shop.
 ### Core Azure Services :
 ## Screenshots -
 
+![ss1](https://github.com/diyu19/brrgrr-website-app/assets/72639368/76b42c99-ff90-41ab-bfa0-bef211df4bd0)
