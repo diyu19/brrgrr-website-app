@@ -9,7 +9,7 @@ burger order system aims to give best testy burger in their nearest brrgrr shop.
 ## Project Title: Brrgrr Web App
 ## Project Details :
 ## Project Demo URL: https://delightful-smoke-042d0b410.4.azurestaticapps.net/
-## Project  Video URL : https://drive.google.com/file/d/1EAdWdtKr8McTNVvPyJNGD0dFS434VWfG/view?usp=drive_link
+## Project  Video URL : [https://drive.google.com/file/d/1EAdWdtKr8McTNVvPyJNGD0dFS434VWfG/view?usp=drive_link](https://drive.google.com/file/d/15JXCiS1Y_UElAzL2ORXqYYhWLwT5vV7-/view?usp=drive_link)
 ## Github Repository URL :https://github.com/diyu19/brrgrr-website-app/
 ## Industry : LifeStyle
 
