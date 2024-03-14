@@ -52,11 +52,11 @@ function displayResults(data) {
     const termsList = data.Terms.map((term) => `<li>${term.Term}</li>`).join(
       ""
     );
-    // resultContainer.innerHTML = `<p>Detected terms:</p><ul>${termsList}</ul>`;
-    alert("Thank you For Subscription");
-  } else {
-    // resultContainer.innerHTML = "<p>No inappropriate content detected</p>";
-
+    resultContainer.innerHTML = `<p>Detected terms:</p><ul>${termsList}</ul>`;
     alert("Please Edit Your Response!!!");
+  } else {
+    resultContainer.innerHTML = "<p>No inappropriate content detected</p>";
+ alert("Thank you For Subscription");
+   
   }
 }
