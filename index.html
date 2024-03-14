@@ -431,15 +431,16 @@
     <div class="custo-feedback">
         <div class="custo-feed-form">
 
-            <form class="custo-form">
+            <form class="custo-form" id="contentModerationForm">
                 Send Your Valueable Feedback!!!<br>
                 <input type="text" placeholder="Your Name">
                 <input type="number" placeholder="Phone Number"><br>
                 <input type="date"><br>
 
-                <textarea placeholder="Message"></textarea><br>
-                <button> Submit </button>
+                <textarea placeholder="Message" id="textInput" name="textInput" class="Inputtext"></textarea><br>
+                <button type="submit"> Submit </button>
             </form>
+            <div id="resultContainer"></div>
             <div class="contact-us-info">
                 <h1>CONTACT US</h1><br>
                 +31-123-4321<br>
@@ -468,13 +469,13 @@
 
         </div>
         <div class="latest-blogs-cards">
-            <img src="https://previews.123rf.com/images/jackf/jackf1603/jackf160301833/53913758-positive-waitress-and-cooking-team-at-professional-kitchen-in-restaurant.jpg">
+            <img src="http://helloburger.in/images/five_1.png">
             <p>Because you can stuff them with a desired amount of food
             </p>
 
         </div>
         <div class="latest-blogs-cards">
-            <img src="https://www.windycityfieldhouse.com/wp-content/uploads/2016/08/team-cooking-challenge2.jpg">
+            <img src="http://helloburger.in/images/five.png">
             <p>They’re served with equally delicious sides
             </p>
 
@@ -507,8 +508,9 @@
             <form class="subsribe-info-form">
                 <h1> GET NEWS & OFFERS</h1>
 
-                <input type="Text" placeholder="Your Email"><button>SUBSCRIBE</button>
+                <input type="text" placeholder="Your Email"><button type="submit">SUBSCRIBE</button>
             </form>
+
 
             <div class="subscribe-channel">
                 FACEBOOK<br>
