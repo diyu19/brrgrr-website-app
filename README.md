@@ -32,7 +32,10 @@ Azure Static Web Apps is a service that automatically builds and deploys full st
 Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. 
 Apps are built and deployed based on code changes.
 ![image](https://github.com/diyu19/brrgrr-website-app/assets/72639368/3573eddb-2538-4fa8-8df3-aed8b34fe31c)
+#### 3. Azure AI Content moderator:
 
+The Azure Content Moderator API checks text, image, and video content for material that is potentially offensive, risky, or otherwise undesirable.
+I used it for authenticate the response from the user
 ### Problem Statement:
 problem defination
 The online burger ordering system sets up a food menu online and customers caneasily place the order as per they like.
